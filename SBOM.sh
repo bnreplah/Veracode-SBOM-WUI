@@ -8,6 +8,8 @@
 #    Alexander Klimetschek : https://unix.stackexchange.com/questions/146570/arrow-key-enter-menu
 #    gilmore867 : https://github.com/gilmore867/Veracode-SBOM-GUI
 
+VERSION="v0.0.2"
+
 if cd .sbom ; then
         clear
         cd -

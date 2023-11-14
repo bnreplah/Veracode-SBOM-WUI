@@ -1,3 +1,4 @@
+#!/bin/bash
 ret_value=0
 help(){
         echo "Generate an SBOM from an Application Profile"

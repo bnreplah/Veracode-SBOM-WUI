@@ -2,7 +2,7 @@
 Veracode SBOM generator with terminal based user interface for generting an SBOM from an Agent-based scan
 
 
-> Docker is currently needed in order to run this script. 
+> Docker is currently needed in order to run this script (SBOM.sh)
 
 In order to use this tool you have to have the following requirements:
 - Docker installed on the machine

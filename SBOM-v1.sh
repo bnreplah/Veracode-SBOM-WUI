@@ -8,6 +8,8 @@
 #    Alexander Klimetschek : https://unix.stackexchange.com/questions/146570/arrow-key-enter-menu
 #    gilmore867 : https://github.com/gilmore867/Veracode-SBOM-GUI
 # This version does not use docker containers
+# Description: Generates a user interface inorder to prompt which workspace and project you want to generate an SBOM from. 
+# In order to use this set your API keys int he enviornment or stored in a credentials file in the appropriate location on the system.
 VERSION="v0.1.2"
 
 if cd .sbom ; then

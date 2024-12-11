@@ -108,7 +108,7 @@ fi
 
 #pip install httpie
 #pip install veracode-api-signing
-
+# TODO: Add option to ask if they want to use a docker container or not and then use the necessary one based on that
 shopt -s expand_aliases
 # alias
 alias 'veracode-http'='http --auth-type=veracode_hmac'
